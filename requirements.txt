@@ -1,0 +1,9 @@
+flask
+sqlalchemy
+pandas
+sklearn
+collections
+numpy
+warnings
+psycopg2
+python-dotenv
